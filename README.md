@@ -15,4 +15,4 @@ Trabalho com suporte técnico para empresas.
 - CSS
 ## Skills
 - Windows 10
-- Virtualização HYPER
+- Virtualização HYPER-V
