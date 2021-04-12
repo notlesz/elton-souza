@@ -1,4 +1,4 @@
-<h1 align="center">🄷🄴🄻🄻🄾 🅃🄷🄴🅁🄴</h1>
+<h1 align="center">ⱧɆⱠⱠØ ₮ⱧɆⱤɆ</h1>
 
 ## Sobre mim
 Meu nome é Elton Souza, tenho 18 anos. Recentemente iniciei os estudos em Desenvolvimento Front-End, uma área que sempre quis trabalhar. Em 2020 quase fui certificado Microsoft MD-100, mas por problemas técnicos não foi possível.<br>
