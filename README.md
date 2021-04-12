@@ -11,4 +11,6 @@ Trabalho com suporte técnico para empresas.
 - JavaScript
 - Já tive contato com outras linguagens de programação como JAVA, C.. mas não tenho muito conhecimento.
 ## Skills
+- Windows 10
 - Virtualização HYPER-V
+
