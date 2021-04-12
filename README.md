@@ -10,6 +10,6 @@ Quase tirei certificação Micrososft k
 ## Linguagens
 - Python
 - JavaScript
-- Já tive contato com algumas linguagens de programação como JAVA, C.. mas não tenho muito conhecimento.
+- Já tive contato com outras linguagens de programação como JAVA, C.. mas não tenho muito conhecimento.
 ## Skills
 - Virtualização HYPER-V
