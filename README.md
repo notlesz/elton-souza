@@ -10,6 +10,9 @@ Trabalho com suporte técnico para empresas.
 - Python
 - JavaScript
 - Já tive contato com outras linguagens de programação como JAVA, C.. mas não tenho muito conhecimento.
+## Tecnologias 
+- HTML
+- CSS
 ## Skills
 - Windows 10
 - Virtualização HYPER-V
