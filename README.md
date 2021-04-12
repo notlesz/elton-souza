@@ -1,8 +1,9 @@
 ### Hello There ♦️
 ## Sobre mim
-Meu nome é Elton Souza, tenho 18 anos.<br>
-Iniciei os estudos em Desenvolvimento Front-End.<br>
-Quase tirei certificação Micrososft k
+Meu nome é Elton Souza, tenho 18 anos.
+Recentemente iniciei os estudos em Desenvolvimento Front-End, uma área que sempre quis trabalhar.
+Quase fui certificado Microsoft MD-100, mas por problemas técnicos não foi possível.
+Trabalho com suporte técnico para empresas.
 ## Formações
 - Técnico em Redes de Computadores(Médio)<br>
 - Atualmente estou cursando Tecnologia em Redes de Computadores(Superior).<br>
