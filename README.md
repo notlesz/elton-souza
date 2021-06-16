@@ -10,6 +10,7 @@
   <img align="center" alt="elton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="elton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="elton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="madara" src="https://cdn.discordapp.com/avatars/353344550426902530/a_d10b0468d0bd1cfe4189b3a39966ad2a.gif?size=256">
 </div>
   
   ##
