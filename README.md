@@ -1,4 +1,3 @@
-<h1 align="center">ⱧɆⱠⱠØ ₮ⱧɆⱤɆ</h1>
 
 <div align="center">
   <a href="https://github.com/elton-souza">
